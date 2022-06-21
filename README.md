@@ -1,10 +1,10 @@
 # public
-Use this Repositories to :
+Use these repositories to :
 
--Speak with us  => In "discussions" tab.
+-Talk to us directly  => In the "discussions" tab.
 
--Declare a bug on our product  => In "issues" tab create an issue with bug tag.
+-Report a bug with our product  => In "issues" tab create an issue with the "bug" tag.
 
--propose an enhancement on our product  => In "issues" tab, create an issue with "enhancement" tag.
+-Suggest an enhancement of our product  => In "issues" tab, create an issue with "enhancement" tag.
 
--Collect our public share  => In "code" tab.
+-Collect our public share  => In the "code" tab.
